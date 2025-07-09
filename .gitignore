@@ -1,0 +1,121 @@
+# Python enviroment
+# ======================
+# Python basics
+# ======================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+# If you use Poetry
+.poetry/
+
+# pip-tools files
+pip-log.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# ======================
+# NLP project specifics
+# ======================
+
+# Raw or generated corpus files
+#corpus_list_token.json
+#corpus_list.json
+#*.json
+*.jsonl
+*.tsv
+*.csv
+
+# Preprocessed data
+data/processed/
+data/interim/
+
+# Vector stores or embeddings
+*.pickle
+*.pkl
+*.npz
+*.npy
+
+# Model checkpoints
+checkpoints/
+models/
+*.h5
+*.pt
+*.pth
+
+# Logs
+logs/
+*.log
+
+# Local dev
+.DS_Store
+Thumbs.db
+
+# dotenv files (credentials)
+.env
+.env.*
+
+# If you use Sphinx or docs
+_build/
+build/
+dist/
+docs/_build/
+
+# ======================
+# For RAG or LLM agents
+# ======================
+
+# Pinecone or vector store index files
+index/
+
+# OpenAI local config
+openai.json
+
+# Local output runs
+runs/
+
+# ======================
+# For Python enviroment
+# ======================
+/literary_chatbot_env
+
+
+# ======================
+# For others
+# ======================
+/Notes
