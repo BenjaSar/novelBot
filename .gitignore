@@ -114,6 +114,12 @@ runs/
 # ======================
 /literary_chatbot_env
 
+# =======================
+# For evaluation framework
+# =======================
+.deepeval
+
+
 
 # ======================
 # For others

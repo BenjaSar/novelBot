@@ -48,23 +48,17 @@ This project builds a high-quality text corpus from literary works (novels, shor
 3. Add your environment variables
 Create a .env file or export the following:
 
-```
-OPENAI_API_KEY=your_openai_key_here
-PINECONE_API_KEY=your_pinecone_key
-PINECONE_ENV=your_pinecone_environment
-Or you can pass api_key directly in code if you're testing.
-```
+    ```
+    OPENAI_API_KEY=your_openai_key_here
+    PINECONE_API_KEY=your_pinecone_key
+    PINECONE_ENV=your_pinecone_environment
+    Or you can pass api_key directly in code if you're testing.
+    ```
 
 4. 🧹 **Run your preprocessing notebook** to clean and tokenize:
 
-    ```bash
-    EDA.ipynb
     ```
-
-**Run your RAG notebook**:
-
-    ```bash
-    RAG.ipynb
+    EDA.ipynb
     ```
 
 5. 💾 **Check your results** in `outputs/` and `corpus_list_token.json`.
