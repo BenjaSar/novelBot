@@ -1,4 +1,7 @@
-# 📚 Literary Corpus NLP Project
+# 📚 Literary Corpus NLP Project  --  NovelBot
+
+###### Author: FS
+
 
 This project builds a high-quality text corpus from literary works (novels, short stories, etc.) for downstream **NLP** tasks like **TF-IDF analysis** and a **Retrieval-Augmented Generation (RAG)** chatbot.
 
@@ -42,22 +45,47 @@ This project builds a high-quality text corpus from literary works (novels, shor
 
 2. 📚 **Download your literary texts** into `data/` (e.g., from Project Gutenberg).
 
-3. 🧹 **Run your preprocessing script** to clean and tokenize:
+3. Add your environment variables
+Create a .env file or export the following:
+
+```
+OPENAI_API_KEY=your_openai_key_here
+PINECONE_API_KEY=your_pinecone_key
+PINECONE_ENV=your_pinecone_environment
+Or you can pass api_key directly in code if you're testing.
+```
+
+4. 🧹 **Run your preprocessing notebook** to clean and tokenize:
 
     ```bash
-    python scripts/preprocess.py
+    EDA.ipynb
     ```
 
-4. 🧮 **Run your TF-IDF analysis**:
+**Run your RAG notebook**:
 
     ```bash
-    python scripts/tfidf_analysis.py
+    RAG.ipynb
     ```
 
 5. 💾 **Check your results** in `outputs/` and `corpus_list_token.json`.
 
 6. 🤖 **Use the corpus** with your RAG chatbot pipeline.
 
+📋 Features
+
+    AgentState structured management (task, context, content)
+
+    LangGraph to define multi-step reasoning workflows (plan → retrieve → generate)
+
+    RetrievalQA pipeline for grounding LLM responses with vector search
+
+    Modular nodes: easy to plug in smarter planning, retrieval, or generation modules
+
+**Run your RAG notebook**:
+
+    ```bash
+    RAG.ipynb
+    ```
 ---
 
 ## 🤝 Contributing
