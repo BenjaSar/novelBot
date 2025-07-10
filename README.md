@@ -45,8 +45,7 @@ This project builds a high-quality text corpus from literary works (novels, shor
 
 2. 📚 **Download your literary texts** into `data/` (e.g., from Project Gutenberg).
 
-3. Add your environment variables
-Create a .env file or export the following:
+3. Add your environment variables. Create a .env file or export the following:
 
     ```
     OPENAI_API_KEY=your_openai_key_here
@@ -61,7 +60,7 @@ Create a .env file or export the following:
     EDA.ipynb
     ```
 
-5. 💾 **Check your results** in `outputs/` and `corpus_list_token.json`.
+5. 💾 **Check your results** in `outputs/` and `corpus_list.json`.
 
 6. 🤖 **Use the corpus** with your RAG chatbot pipeline.
 
@@ -73,11 +72,9 @@ Create a .env file or export the following:
 
     RetrievalQA pipeline for grounding LLM responses with vector search
 
-    Modular nodes: easy to plug in smarter planning, retrieval, or generation modules
-
 **Run your RAG notebook**:
 
-    ```bash
+    ```
     RAG.ipynb
     ```
 ---
