@@ -625,7 +625,6 @@
         "principle",
         "heart",
         "thing",
-        "letter",
         "unfortunate",
         "husband",
         "spectator",
@@ -1133,6 +1132,7 @@
       [
         "even",
         "impossible",
+        "find",
         "person",
         "especially",
         "female",
@@ -1701,6 +1701,8 @@
       ],
       [
         "nearly",
+        "speechless",
+        "awe",
         "magnificent",
         "darcy",
         "nearly",
@@ -2675,8 +2677,7 @@
         "pleasant",
         "new",
         "acquaintance",
-        "day",
-        "sake"
+        "day"
       ],
       [
         "lydia",
@@ -2837,6 +2838,7 @@
       ],
       [
         "business",
+        "town",
         "soon",
         "arrival",
         "hertfordshire",
@@ -3045,12 +3047,17 @@
         "partner"
       ],
       [
+        "assembly",
+        "insupportable"
+      ],
+      [
         "sister",
         "woman",
         "room",
         "punishment"
       ],
       [
+        "fastidious",
         "bingley",
         "kingdom"
       ],
@@ -3435,6 +3442,7 @@
       ],
       [
         "natural",
+        "asking",
         "again"
       ],
       [
@@ -3751,6 +3759,7 @@
         "acquainted",
         "room",
         "bennet",
+        "conceive",
         "angel",
         "beautiful"
       ],
@@ -4254,6 +4263,7 @@
         "uniform",
         "cheerfulness",
         "manner",
+        "guard",
         "suspicion",
         "impertinent"
       ],
@@ -4643,6 +4653,7 @@
         "vanity",
         "musical",
         "turn",
+        "invaluable",
         "really",
         "rather",
         "good",
@@ -4674,8 +4685,10 @@
       ],
       [
         "song",
+        "reply",
         "entreaty",
         "several",
+        "sing",
         "again",
         "eagerly",
         "instrument",
@@ -4916,6 +4929,7 @@
         "dear",
         "eliza",
         "complaisance",
+        "object",
         "partner"
       ],
       [
@@ -4952,8 +4966,7 @@
         "yet",
         "self",
         "importance",
-        "people",
-        "stricture"
+        "people"
       ],
       [
         "conjecture",
@@ -5064,6 +5077,7 @@
         "ample",
         "situation",
         "life",
+        "ill",
         "supply",
         "deficiency"
       ],
@@ -5372,6 +5386,7 @@
         "scheme",
         "elizabeth",
         "sure",
+        "offer",
         "home"
       ],
       [
@@ -5509,6 +5524,7 @@
         "fit",
         "illness",
         "die",
+        "comfort",
         "know",
         "pursuit",
         "bingley",
@@ -5717,6 +5733,7 @@
         "bingley",
         "together",
         "little",
+        "beside",
         "expression",
         "extraordinary",
         "kindness"
@@ -5850,6 +5867,7 @@
         "brother",
         "indeed",
         "party",
+        "regard",
         "complacency"
       ],
       [
@@ -5969,6 +5987,7 @@
         "sure",
         "bingley",
         "think",
+        "wish",
         "sister",
         "exhibition"
       ],
@@ -6184,6 +6203,7 @@
       ],
       [
         "elizabeth",
+        "suit",
         "perfectly",
         "room"
       ],
@@ -6619,6 +6639,7 @@
         "apparent",
         "danger",
         "bennet",
+        "miserable",
         "satisfied",
         "illness",
         "immediately",
@@ -7565,7 +7586,6 @@
         "celerity"
       ],
       [
-        "conduct",
         "quite",
         "dependent",
         "chance",
@@ -7745,6 +7765,7 @@
       [
         "darcy",
         "elizabeth",
+        "perceive",
         "rather",
         "offended",
         "therefore",
@@ -7828,6 +7849,7 @@
       ],
       [
         "hardly",
+        "object",
         "admiration",
         "great",
         "man",
@@ -7835,6 +7857,7 @@
         "strange"
       ],
       [
+        "imagine",
         "however",
         "last",
         "wrong",
@@ -7999,6 +8022,7 @@
         "elizabeth",
         "picture",
         "painter",
+        "justice",
         "beautiful",
         "eye"
       ],
@@ -8063,6 +8087,7 @@
       ],
       [
         "picturesque",
+        "spoilt",
         "fourth"
       ],
       [
@@ -8303,14 +8328,16 @@
         "serious",
         "meditating",
         "dance",
-        "netherfield",
+        "netherfield"
+      ],
+      [
         "present",
         "party",
         "much",
         "mistaken",
-        "us",
         "ball",
         "rather",
+        "punishment",
         "pleasure"
       ],
       [
@@ -8355,7 +8382,6 @@
         "rational",
         "dear",
         "caroline",
-        "near",
         "much",
         "ball"
       ],
@@ -8419,11 +8445,17 @@
         "directly",
         "join",
         "party",
+        "imagine",
         "motive",
         "walk",
         "room",
         "together",
-        "motive"
+        "motive",
+        "interfere"
+      ],
+      [
+        "meaning",
+        "elizabeth"
       ],
       [
         "severe",
@@ -8503,6 +8535,8 @@
         "advantage",
         "uncommon",
         "hope",
+        "great",
+        "loss",
         "many",
         "acquaintance"
       ],
@@ -8718,6 +8752,7 @@
         "exactly",
         "jane",
         "week",
+        "receive",
         "pleasure",
         "before"
       ],
@@ -8741,6 +8776,7 @@
         "sister",
         "stay",
         "long",
+        "spare",
         "well"
       ],
       [
@@ -8795,6 +8831,7 @@
         "soon",
         "repeatedly",
         "bennet",
+        "safe",
         "enough",
         "jane",
         "firm",
@@ -9972,6 +10009,7 @@
         "lydia",
         "interruption",
         "again",
+        "resume",
         "book",
         "collins",
         "bore",
@@ -10168,6 +10206,7 @@
         "soon",
         "daughter",
         "man",
+        "bear",
         "day",
         "before",
         "high",
@@ -10863,6 +10902,7 @@
         "elizabeth",
         "willing",
         "chiefly",
+        "hope",
         "history",
         "acquaintance",
         "darcy"
@@ -10908,9 +10948,7 @@
       ],
       [
         "clear",
-        "annum"
-      ],
-      [
+        "annum",
         "person",
         "capable",
         "certain",
@@ -10976,6 +11014,7 @@
       [
         "opinion",
         "general",
+        "astonish",
         "perhaps",
         "quite",
         "strongly",
@@ -11490,7 +11529,10 @@
         "head"
       ],
       [
-        "amiable",
+        "call",
+        "amiable"
+      ],
+      [
         "pain",
         "speak",
         "ill",
@@ -11816,7 +11858,6 @@
         "repeatedly",
         "crowded",
         "cousin",
-        "well",
         "carriage",
         "longbourn",
         "house"
@@ -11931,7 +11972,8 @@
         "humanity",
         "man",
         "value",
-        "character"
+        "character",
+        "capable"
       ],
       [
         "intimate",
@@ -12266,7 +12308,6 @@
         "aunt",
         "officer",
         "news",
-        "after",
         "shoe",
         "rose",
         "netherfield",
@@ -12408,6 +12449,7 @@
         "ill",
         "humour",
         "wholly",
+        "surmount",
         "even",
         "bingley",
         "blind",
@@ -12419,6 +12461,7 @@
         "humour",
         "prospect",
         "evening",
+        "dwell",
         "long",
         "spirit",
         "charlotte",
@@ -12987,7 +13030,6 @@
         "george",
         "wickham",
         "brother",
-        "well",
         "invitation",
         "officer",
         "excessively",
@@ -13194,6 +13236,7 @@
       ],
       [
         "discourse",
+        "difference",
         "sentiment"
       ],
       [
@@ -13246,6 +13289,7 @@
         "thing"
       ],
       [
+        "meeting",
         "perhaps",
         "nephew",
         "catherine",
@@ -13382,7 +13426,6 @@
         "speech",
         "solemn",
         "bow",
-        "though",
         "word",
         "motion",
         "lip",
@@ -13479,6 +13522,7 @@
         "marriage",
         "true",
         "affection",
+        "bestow",
         "capable",
         "circumstance",
         "even",
@@ -13600,7 +13644,9 @@
         "whisper",
         "inexpressible",
         "vexation",
+        "perceive",
         "chief",
+        "overheard",
         "darcy"
       ],
       [
@@ -13635,6 +13681,7 @@
       ],
       [
         "mother",
+        "talk",
         "intelligible",
         "tone"
       ],
@@ -13894,6 +13941,7 @@
         "much",
         "evening",
         "impossible",
+        "play",
         "part",
         "spirit",
         "fine",
@@ -13935,7 +13983,7 @@
         "collins",
         "perseveringly",
         "side",
-        "though",
+        "prevail",
         "dance",
         "again",
         "power",
@@ -14089,7 +14137,6 @@
         "longbourn",
         "particularly",
         "bingley",
-        "assure",
         "happy",
         "family",
         "dinner",
@@ -14270,6 +14317,7 @@
         "making",
         "also",
         "sensible",
+        "wise",
         "soon",
         "quietly",
         "possible",
@@ -14347,6 +14395,7 @@
         "composure",
         "feeling",
         "elizabeth",
+        "use",
         "short",
         "pause",
         "attempt",
@@ -14655,9 +14704,7 @@
         "room",
         "collins",
         "thus",
-        "her,--"
-      ],
-      [
+        "her,--",
         "honour",
         "next",
         "subject",
@@ -14678,6 +14725,7 @@
         "much",
         "encourage",
         "suit",
+        "consistent",
         "true",
         "delicacy",
         "female",
@@ -14714,7 +14762,6 @@
         "unworthy",
         "acceptance",
         "establishment",
-        "offer",
         "highly",
         "desirable"
       ],
@@ -14765,9 +14812,7 @@
         "kind",
         "elegance",
         "respectable",
-        "man"
-      ],
-      [
+        "man",
         "rather",
         "compliment",
         "sincere"
@@ -14824,6 +14869,7 @@
         "manner",
         "behaviour",
         "least",
+        "mistaken",
         "affectation",
         "coquetry",
         "elegant",
@@ -14888,6 +14934,7 @@
         "information",
         "however",
         "bennet",
+        "glad",
         "equally",
         "satisfied",
         "daughter",
@@ -14954,7 +15001,9 @@
         "directly",
         "bennet",
         "soon",
-        "sure",
+        "sure"
+      ],
+      [
         "time",
         "reply",
         "instantly",
@@ -16045,6 +16094,7 @@
         "however",
         "openly",
         "artfully",
+        "influence",
         "young",
         "man",
         "totally",
@@ -16322,6 +16372,7 @@
         "longbourn",
         "estate",
         "highly",
+        "expedient",
         "wife",
         "appearance",
         "st",
@@ -16371,6 +16422,10 @@
         "imaginary"
       ],
       [
+        "still",
+        "husband"
+      ],
+      [
         "highly",
         "man",
         "matrimony",
@@ -16410,6 +16465,7 @@
       ],
       [
         "elizabeth",
+        "wonder",
         "probably",
         "resolution",
         "shaken",
@@ -16600,6 +16656,7 @@
         "last",
         "day",
         "charlotte",
+        "encourage",
         "almost",
         "far",
         "possibility",
@@ -16916,6 +16973,7 @@
         "rude",
         "many",
         "month",
+        "forgive",
         "daughter"
       ],
       [
@@ -16947,6 +17005,7 @@
         "desire",
         "happiness",
         "elizabeth",
+        "persuade",
         "improbable"
       ],
       [
@@ -16995,6 +17054,7 @@
         "real",
         "confidence",
         "ever",
+        "subsist",
         "again"
       ],
       [
@@ -17004,7 +17064,6 @@
         "fonder",
         "regard",
         "sister",
-        "delicacy",
         "sure",
         "opinion",
         "never",
@@ -17153,7 +17212,8 @@
         "fear",
         "bingley",
         "indifferent",
-        "sister"
+        "sister",
+        "successful"
       ],
       [
         "unwilling",
@@ -17349,7 +17409,6 @@
         "entail"
       ],
       [
-        "entail",
         "away",
         "estate",
         "daughter",
@@ -17889,6 +17948,7 @@
       ],
       [
         "elizabeth",
+        "wish",
         "time",
         "bingley",
         "name",
@@ -18681,6 +18741,10 @@
         "openly"
       ],
       [
+        "seriously",
+        "guard"
+      ],
+      [
         "endeavour",
         "affection",
         "fortune",
@@ -18781,7 +18845,8 @@
         "fellow",
         "creature",
         "even",
-        "wiser"
+        "wise",
+        "resist"
       ],
       [
         "therefore",
@@ -18927,6 +18992,7 @@
       ],
       [
         "elizabeth",
+        "refuse",
         "little",
         "pleasure",
         "visit"
@@ -18970,6 +19036,7 @@
       [
         "elizabeth",
         "never",
+        "address",
         "comfort",
         "intimacy",
         "slacken",
@@ -18989,6 +19056,7 @@
         "home",
         "catherine",
         "happy",
+        "dare",
         "pronounce",
         "though",
         "letter",
@@ -18999,7 +19067,8 @@
       ],
       [
         "cheerfully",
-        "comfort"
+        "comfort",
+        "praise"
       ],
       [
         "house",
@@ -19095,8 +19164,7 @@
       ],
       [
         "darcy",
-        "dinner",
-        "wish"
+        "dinner"
       ],
       [
         "long",
@@ -19114,6 +19182,7 @@
       ],
       [
         "accident",
+        "discover",
         "bingley",
         "sister",
         "town"
@@ -19369,7 +19438,9 @@
       [
         "heart",
         "slightly",
-        "vanity"
+        "vanity",
+        "choice",
+        "fortune"
       ],
       [
         "sudden",
@@ -19392,6 +19463,7 @@
       ],
       [
         "contrary",
+        "natural",
         "able",
         "suppose",
         "cost",
@@ -19531,6 +19603,7 @@
         "uncompanionable",
         "sister",
         "home",
+        "faultless",
         "little",
         "change",
         "unwelcome",
@@ -19543,7 +19616,9 @@
         "jane",
         "short",
         "time",
-        "near"
+        "near",
+        "sorry",
+        "delay"
       ],
       [
         "however",
@@ -19784,6 +19859,7 @@
         "last",
         "christmas",
         "afraid",
+        "imprudent",
         "now",
         "girl",
         "pound",
@@ -19901,6 +19977,7 @@
       ],
       [
         "scheme",
+        "agreeable",
         "elizabeth",
         "acceptance",
         "invitation",
@@ -20117,7 +20194,7 @@
         "charlotte"
       ],
       [
-        "twice",
+        "discern",
         "faint",
         "blush",
         "general",
@@ -20185,6 +20262,7 @@
         "garden",
         "country",
         "kingdom",
+        "boast",
         "none",
         "prospect",
         "rosings",
@@ -20355,6 +20433,7 @@
       [
         "also",
         "visit",
+        "pass",
         "quiet",
         "tenour",
         "usual",
@@ -20463,6 +20542,10 @@
         "quite",
         "little",
         "creature"
+      ],
+      [
+        "thin",
+        "small"
       ],
       [
         "abominably",
@@ -20708,7 +20791,6 @@
         "elizabeth",
         "much",
         "pleased",
-        "though",
         "collins",
         "scene",
         "inspire",
@@ -20750,6 +20832,7 @@
         "stateliness",
         "money",
         "rank",
+        "witness",
         "trepidation"
       ],
       [
@@ -20928,7 +21011,8 @@
         "law",
         "manner",
         "elizabeth",
-        "catherine"
+        "catherine",
+        "bear"
       ],
       [
         "catherine",
@@ -21009,6 +21093,7 @@
         "elizabeth",
         "great",
         "attention",
+        "furnish",
         "occasion",
         "other"
       ],
@@ -21110,6 +21195,7 @@
       ],
       [
         "mother",
+        "objection",
         "father",
         "london"
       ],
@@ -21231,6 +21317,7 @@
       [
         "really",
         "ma'am",
+        "hard",
         "young",
         "sister",
         "society",
@@ -21252,7 +21339,6 @@
         "motive"
       ],
       [
-        "think",
         "likely",
         "sisterly",
         "affection",
@@ -21669,6 +21755,7 @@
         "week",
         "many",
         "acquaintance",
+        "furnish",
         "comparatively",
         "new",
         "look",
@@ -21845,6 +21932,7 @@
         "perfectly",
         "sensible",
         "never",
+        "betray",
         "consciousness",
         "bingleys",
         "jane",
@@ -21887,6 +21975,7 @@
         "thither",
         "visitor",
         "house",
+        "necessary",
         "easter",
         "day",
         "almost",
@@ -22357,8 +22446,10 @@
         "minute",
         "darcy,--",
         "bennet",
+        "play",
         "amiss",
         "more",
+        "advantage",
         "london",
         "master"
       ],
@@ -22372,6 +22463,7 @@
       ],
       [
         "anne",
+        "delightful",
         "performer",
         "health",
         "learn"
@@ -22383,6 +22475,7 @@
         "cousin",
         "praise",
         "moment",
+        "discern",
         "symptom",
         "love",
         "whole",
@@ -22478,6 +22571,7 @@
         "hertfordshire",
         "curious",
         "know",
+        "subject",
         "hasty",
         "departure",
         "observed,--",
@@ -22968,7 +23062,6 @@
         "considerable",
         "patronage",
         "church",
-        "cousin",
         "none"
       ],
       [
@@ -23360,6 +23453,7 @@
         "generally",
         "round",
         "family",
+        "unpleasant",
         "thing"
       ],
       [
@@ -23455,6 +23549,8 @@
         "jestingly",
         "picture",
         "darcy",
+        "trust",
+        "answer",
         "therefore",
         "abruptly",
         "conversation",
@@ -23471,8 +23567,13 @@
         "interruption"
       ],
       [
+        "people",
+        "world"
+      ],
+      [
         "man",
         "darcy",
+        "boundless",
         "influence"
       ],
       [
@@ -23524,6 +23625,7 @@
       ],
       [
         "jane",
+        "possibility",
         "objection,--all",
         "loveliness",
         "goodness"
@@ -23596,6 +23698,7 @@
         "possible",
         "husband",
         "collins",
+        "conceal",
         "apprehension",
         "catherine",
         "rather",
@@ -23799,6 +23902,7 @@
       [
         "deeply",
         "dislike",
+        "insensible",
         "compliment",
         "man",
         "affection",
@@ -23848,9 +23952,7 @@
         "far",
         "colour",
         "cheek",
-        "said,--"
-      ],
-      [
+        "said,--",
         "case",
         "mode",
         "sense",
@@ -23916,6 +24018,7 @@
       [
         "appearance",
         "composure",
+        "open",
         "lip"
       ],
       [
@@ -23963,6 +24066,7 @@
         "even",
         "favourable",
         "consideration",
+        "tempt",
         "man",
         "perhaps",
         "ever",
@@ -24313,7 +24417,6 @@
         "unpardonable",
         "assurance",
         "acknowledging",
-        "though",
         "manner",
         "wickham",
         "cruelty",
@@ -24348,7 +24451,6 @@
         "thought",
         "meditation",
         "length",
-        "closed",
         "eye"
       ],
       [
@@ -24561,6 +24663,7 @@
         "young",
         "person",
         "affection",
+        "growth",
         "week",
         "comparison"
       ],
@@ -24586,7 +24689,8 @@
       ],
       [
         "necessity",
-        "apology"
+        "apology",
+        "absurd"
       ],
       [
         "long",
@@ -24633,13 +24737,15 @@
         "certain",
         "event",
         "time",
-        "alone"
+        "alone",
+        "undecided"
       ],
       [
         "moment",
         "friend",
         "behaviour",
         "attentively",
+        "perceive",
         "partiality",
         "bennet",
         "ever"
@@ -24994,7 +25100,8 @@
         "also",
         "high",
         "opinion",
-        "church"
+        "church",
+        "profession"
       ],
       [
         "many",
@@ -25086,6 +25193,8 @@
         "law",
         "interest",
         "pound",
+        "insufficient",
+        "support",
         "therein"
       ],
       [
@@ -25157,6 +25266,7 @@
         "unprofitable",
         "study",
         "absolutely",
+        "present",
         "living",
         "question",
         "little",
@@ -25196,6 +25306,7 @@
       ],
       [
         "circumstance",
+        "wish",
         "obligation",
         "less",
         "present",
@@ -25300,6 +25411,7 @@
       ],
       [
         "revenge",
+        "complete",
         "indeed"
       ],
       [
@@ -25337,7 +25449,8 @@
       ],
       [
         "master",
-        "enough"
+        "enough",
+        "know"
       ],
       [
         "truth",
@@ -25402,8 +25515,11 @@
         "apology",
         "power",
         "steadfastly",
+        "explanation",
+        "give",
         "sense",
-        "shame"
+        "shame",
+        "conceal"
       ],
       [
         "strong",
@@ -25492,13 +25608,13 @@
         "page",
         "hastily",
         "away",
+        "regard",
         "never",
         "again"
       ],
       [
         "state",
         "mind",
-        "thought",
         "on",
         "minute",
         "letter",
@@ -25574,6 +25690,7 @@
         "affair",
         "impossible",
         "contrivance",
+        "represent",
         "darcy",
         "conduct",
         "less",
@@ -25651,6 +25768,7 @@
         "atone",
         "casual",
         "error",
+        "endeavour",
         "class",
         "darcy",
         "idleness",
@@ -25798,6 +25916,7 @@
       ],
       [
         "behaviour",
+        "tolerable",
         "motive",
         "regard",
         "fortune",
@@ -26002,6 +26121,7 @@
         "unfelt"
       ],
       [
+        "console",
         "contempt",
         "thus",
         "self",
@@ -26073,6 +26193,10 @@
         "colonel",
         "fitzwilliam",
         "long"
+      ],
+      [
+        "think",
+        "letter"
       ],
       [
         "illustration",
@@ -26336,6 +26460,7 @@
       ],
       [
         "glad",
+        "mention",
         "really",
         "alone"
       ],
@@ -26422,6 +26547,7 @@
         "general",
         "character",
         "respect",
+        "moment",
         "repent",
         "refusal",
         "slight",
@@ -26472,7 +26598,8 @@
         "lydia",
         "mother",
         "indulgence",
-        "chance"
+        "chance",
+        "improvement"
       ],
       [
         "catherine",
@@ -26493,7 +26620,9 @@
       [
         "ignorant",
         "idle",
-        "vain",
+        "vain"
+      ],
+      [
         "officer",
         "meryton",
         "meryton",
@@ -26520,6 +26649,7 @@
         "sincere",
         "conduct",
         "blame",
+        "attach",
         "implicitness",
         "confidence",
         "friend"
@@ -26807,6 +26937,7 @@
         "case",
         "equal",
         "sincerity",
+        "add",
         "firmly",
         "domestic",
         "comfort"
@@ -26956,7 +27087,7 @@
       [
         "jane",
         "home",
-        "longbourn",
+        "leisure",
         "enough",
         "observation"
       ],
@@ -26971,8 +27102,8 @@
       ],
       [
         "power",
-        "revealing",
         "exceedingly",
+        "astonish",
         "jane",
         "time",
         "highly",
@@ -27107,6 +27238,7 @@
         "summer"
       ],
       [
+        "delicious",
         "scheme",
         "hardly"
       ],
@@ -27524,10 +27656,15 @@
         "pleasure"
       ],
       [
+        "doubtless",
         "congenial",
         "generality",
         "female",
         "mind"
+      ],
+      [
+        "confess",
+        "charm"
       ],
       [
         "infinitely",
@@ -27940,6 +28077,8 @@
         "prejudice",
         "darcy",
         "violent",
+        "death",
+        "half",
         "good",
         "people",
         "meryton",
@@ -28006,6 +28145,7 @@
       ],
       [
         "knowledge",
+        "partake",
         "sensible",
         "less",
         "perfect",
@@ -28320,6 +28460,7 @@
         "little",
         "sea",
         "bathing",
+        "set",
         "ever"
       ],
       [
@@ -28464,11 +28605,10 @@
         "impropriety",
         "lydia",
         "general",
-        "behaviour"
-      ],
-      [
+        "behaviour",
         "little",
         "advantage",
+        "derive",
         "friendship",
         "woman",
         "forster",
@@ -28784,7 +28924,6 @@
         "sister",
         "tear",
         "prospect",
-        "reality",
         "sensation"
       ],
       [
@@ -29040,6 +29179,8 @@
       ],
       [
         "elizabeth",
+        "repress",
+        "smile",
         "slight",
         "inclination",
         "head"
@@ -29223,6 +29364,8 @@
         "affectionate",
         "treatment",
         "endeavoured",
+        "overlook",
+        "banish",
         "thought",
         "continual",
         "breach",
@@ -29348,13 +29491,15 @@
         "inevitable",
         "jane",
         "scheme",
-        "part"
+        "part",
+        "perfect"
       ],
       [
         "whole",
         "arrangement",
         "complete",
-        "disappointment"
+        "disappointment",
+        "certain"
       ],
       [
         "here",
@@ -29761,7 +29906,7 @@
       [
         "elizabeth",
         "more",
-        "mind"
+        "acquiesce"
       ],
       [
         "possibility",
@@ -29771,7 +29916,6 @@
       ],
       [
         "idea",
-        "thought",
         "well",
         "openly",
         "aunt",
@@ -30244,6 +30388,9 @@
       ],
       [
         "much",
+        "wish"
+      ],
+      [
         "half",
         "time",
         "here",
@@ -30257,11 +30404,16 @@
         "ramsgate"
       ],
       [
+        "master",
+        "marry"
+      ],
+      [
         "good",
         "enough"
       ],
       [
         "elizabeth",
+        "help",
         "much",
         "credit",
         "sure",
@@ -31072,6 +31224,7 @@
         "little",
         "behind",
         "pausing",
+        "honour",
         "friend"
       ],
       [
@@ -31080,6 +31233,7 @@
         "quite",
         "unprepared",
         "hardly",
+        "suppress",
         "smile",
         "acquaintance",
         "people",
@@ -31112,6 +31266,10 @@
         "back",
         "conversation",
         "gardiner"
+      ],
+      [
+        "elizabeth",
+        "triumph"
       ],
       [
         "know",
@@ -31175,7 +31333,8 @@
       ],
       [
         "reproofs",
-        "hunsford"
+        "hunsford",
+        "work"
       ],
       [
         "impossible",
@@ -31691,8 +31850,7 @@
         "commonly",
         "anxious",
         "naturally",
-        "power",
-        "pleasing"
+        "power"
       ],
       [
         "window",
@@ -31917,10 +32075,6 @@
         "regard"
       ],
       [
-        "hope",
-        "sister"
-      ],
-      [
         "point",
         "soon",
         "satisfied",
@@ -31943,9 +32097,8 @@
         "long",
         "time",
         "pleasure",
-        "month"
-      ],
-      [
+        "reply",
+        "month",
         "26th",
         "november",
         "together",
@@ -32172,8 +32325,7 @@
         "well",
         "far",
         "acquaintance",
-        "fault",
-        "find"
+        "fault"
       ],
       [
         "untouched",
@@ -32207,6 +32359,7 @@
         "lambton",
         "friend",
         "materially",
+        "lessen",
         "weight"
       ],
       [
@@ -32270,7 +32423,8 @@
         "almost",
         "long",
         "ashamed",
-        "ever"
+        "ever",
+        "dislike"
       ],
       [
         "respect",
@@ -32377,12 +32531,12 @@
         "pemberley",
         "late",
         "breakfast",
-        "though",
         "exertion",
         "politeness",
         "side",
         "consequently",
         "highly",
+        "expedient",
         "pemberley",
         "morning"
       ],
@@ -32548,7 +32702,8 @@
         "master",
         "house",
         "most",
-        "scarcely"
+        "scarcely",
+        "determine"
       ],
       [
         "manner",
@@ -32591,6 +32746,7 @@
         "employment",
         "whole",
         "party",
+        "talk",
         "beautiful",
         "pyramid",
         "grape",
@@ -32838,6 +32994,7 @@
         "enough",
         "favour",
         "judgment",
+        "err",
         "term",
         "elizabeth",
         "georgiana",
@@ -33005,6 +33162,7 @@
         "gardiner",
         "gardiner",
         "highly",
+        "gratified",
         "niece",
         "beginning",
         "subject"
@@ -33218,6 +33376,7 @@
         "dearest",
         "lizzy",
         "hardly",
+        "write",
         "bad",
         "news"
       ],
@@ -33711,7 +33870,8 @@
       ],
       [
         "self",
-        "though"
+        "intrude",
+        "engross"
       ],
       [
         "lydia",
@@ -33886,6 +34046,7 @@
       [
         "jane",
         "thought",
+        "flatter",
         "expectation"
       ],
       [
@@ -34064,7 +34225,7 @@
       ],
       [
         "vain",
-        "well",
+        "good",
         "confusion",
         "hour"
       ],
@@ -34102,6 +34263,7 @@
         "short",
         "space",
         "time",
+        "seated",
         "carriage",
         "road",
         "longbourn"
@@ -34312,6 +34474,7 @@
         "little",
         "little",
         "father",
+        "do",
         "matter"
       ],
       [
@@ -34492,7 +34655,6 @@
         "necessary",
         "knowledge",
         "public",
-        "use",
         "apparently",
         "good",
         "opinion",
@@ -34508,6 +34670,7 @@
         "never"
       ],
       [
+        "danger",
         "deception",
         "never",
         "head"
@@ -34572,6 +34735,7 @@
         "interesting",
         "subject",
         "discussion",
+        "detain",
         "long",
         "whole",
         "journey"
@@ -34751,6 +34915,7 @@
         "benevolence",
         "heart",
         "still",
+        "end",
         "well",
         "morning",
         "letter",
@@ -34961,6 +35126,7 @@
         "table",
         "well",
         "household",
+        "trust",
         "fear",
         "solicitude",
         "subject"
@@ -35512,6 +35678,7 @@
       ],
       [
         "anyhow",
+        "discover",
         "house",
         "coachman",
         "set",
@@ -35564,6 +35731,7 @@
         "intelligence",
         "send",
         "even",
+        "glad",
         "certain"
       ],
       [
@@ -36015,6 +36183,7 @@
         "colonel",
         "forster",
         "pound",
+        "necessary",
         "clear",
         "expense",
         "brighton"
@@ -36057,6 +36226,7 @@
         "brother",
         "law",
         "entreaty",
+        "return",
         "family",
         "occasion",
         "advisable",
@@ -36144,6 +36314,8 @@
         "perfectly",
         "aware",
         "darcy",
+        "borne",
+        "dread",
         "lydia",
         "infamy",
         "somewhat",
@@ -36278,9 +36450,8 @@
       ],
       [
         "you",
-        "brighton"
-      ],
-      [
+        "brighton",
+        "trust",
         "eastbourne",
         "pound"
       ],
@@ -36747,6 +36918,10 @@
         "more"
       ],
       [
+        "spare",
+        "pound"
+      ],
+      [
         "ever",
         "able",
         "wickham",
@@ -36835,7 +37010,7 @@
         "library",
         "therefore",
         "father",
-        "known"
+        "wish"
       ],
       [
         "writing",
@@ -37070,7 +37245,8 @@
         "carriage"
       ],
       [
-        "airing",
+        "great",
+        "deal",
         "good",
         "sure"
       ],
@@ -37262,6 +37438,7 @@
         "lydia",
         "least",
         "bennet",
+        "hesitation",
         "proposal"
       ],
       [
@@ -37304,7 +37481,9 @@
         "lydia",
         "expense",
         "little",
-        "sum",
+        "sum"
+      ],
+      [
         "exertion",
         "side",
         "too",
@@ -37357,6 +37536,7 @@
       ],
       [
         "sure",
+        "advantage",
         "conversation",
         "lydia",
         "bennet",
@@ -37492,6 +37672,7 @@
         "amazement",
         "horror",
         "husband",
+        "advance",
         "guinea",
         "buy",
         "clothe",
@@ -37516,6 +37697,7 @@
         "marriage",
         "scarcely",
         "valid",
+        "believe",
         "possible"
       ],
       [
@@ -37589,6 +37771,7 @@
       ],
       [
         "connection",
+        "wonder",
         "shrink"
       ],
       [
@@ -37601,7 +37784,8 @@
       [
         "jealous",
         "esteem",
-        "long"
+        "long",
+        "hope"
       ],
       [
         "least",
@@ -37609,6 +37793,7 @@
         "intelligence"
       ],
       [
+        "happy",
         "long",
         "likely"
       ],
@@ -37672,12 +37857,14 @@
         "wickham",
         "lydia",
         "tolerable",
-        "independence"
+        "independence",
+        "imagine"
       ],
       [
         "little",
         "permanent",
         "happiness",
+        "belong",
         "couple",
         "passion",
         "strong",
@@ -37912,9 +38099,8 @@
         "consent",
         "scheme",
         "inclination",
-        "meeting",
-        "object",
-        "wish"
+        "last",
+        "object"
       ],
       [
         "illustration",
@@ -38122,7 +38308,6 @@
         "again"
       ],
       [
-        "thought",
         "good",
         "fun"
       ],
@@ -38157,6 +38342,7 @@
       ],
       [
         "elizabeth",
+        "bear",
         "long"
       ],
       [
@@ -38288,7 +38474,6 @@
       ],
       [
         "bennet",
-        "stay",
         "short",
         "time",
         "daughter",
@@ -38429,7 +38614,6 @@
       ],
       [
         "usual",
-        "thought",
         "never",
         "over",
         "uncle",
@@ -38565,6 +38749,7 @@
         "improbable"
       ],
       [
+        "bear",
         "suspense",
         "hastily",
         "sheet",
@@ -38798,6 +38983,7 @@
         "town"
       ],
       [
+        "betray",
         "trust",
         "bribery",
         "corruption",
@@ -38811,7 +38997,8 @@
         "arrival",
         "london",
         "able",
-        "house"
+        "house",
+        "abode"
       ],
       [
         "length",
@@ -38896,6 +39083,7 @@
       [
         "bennet",
         "rich",
+        "able",
         "situation",
         "marriage"
       ],
@@ -38925,6 +39113,7 @@
       [
         "wickham",
         "course",
+        "get",
         "length",
         "reasonable"
       ],
@@ -39041,6 +39230,7 @@
         "great",
         "pleasure",
         "explanation",
+        "rob",
         "feather",
         "praise",
         "due"
@@ -39226,7 +39416,8 @@
         "nice",
         "little",
         "pair",
-        "pony"
+        "pony",
+        "thing"
       ],
       [
         "child",
@@ -39298,6 +39489,7 @@
       ],
       [
         "girl",
+        "regard",
         "esteem"
       ],
       [
@@ -39351,7 +39543,7 @@
         "reasonable",
         "wrong",
         "liberality",
-        "though",
+        "place",
         "principal",
         "inducement",
         "perhaps",
@@ -39458,6 +39650,7 @@
       [
         "almost",
         "pleasure",
+        "much",
         "else",
         "way",
         "newcastle",
@@ -39542,8 +39735,7 @@
       [
         "excellent",
         "parsonage",
-        "house",
-        "respect"
+        "house"
       ],
       [
         "exceedingly",
@@ -40176,7 +40368,6 @@
       [
         "elizabeth",
         "source",
-        "yet",
         "jane",
         "never",
         "yet",
@@ -40188,6 +40379,7 @@
       ],
       [
         "jane",
+        "man",
         "proposal",
         "merit",
         "extensive",
@@ -40234,7 +40426,8 @@
         "affection",
         "wish",
         "still",
-        "unshaken"
+        "unshaken",
+        "secure"
       ],
       [
         "first",
@@ -40345,6 +40538,7 @@
         "darcy",
         "gardiner",
         "question",
+        "answer",
         "confusion",
         "scarcely"
       ],
@@ -40668,6 +40862,7 @@
         "table",
         "less",
         "course",
+        "good",
         "enough",
         "man",
         "anxious",
@@ -40702,7 +40897,9 @@
       [
         "silent",
         "grave",
-        "indifferent",
+        "indifferent"
+      ],
+      [
         "way",
         "pleasure"
       ],
@@ -40924,7 +41121,6 @@
         "family"
       ],
       [
-        "hope",
         "evening",
         "opportunity",
         "together",
@@ -40977,7 +41173,7 @@
         "confederacy",
         "single",
         "vacancy",
-        "near",
+        "admit",
         "chair"
       ],
       [
@@ -41005,12 +41201,14 @@
       ],
       [
         "ever",
+        "foolish",
         "enough",
         "renewal",
         "love"
       ],
       [
         "sex",
+        "protest",
         "weakness",
         "second",
         "proposal",
@@ -41177,7 +41375,9 @@
         "spirit",
         "enough",
         "bingley",
-        "behaviour",
+        "behaviour"
+      ],
+      [
         "jane",
         "last",
         "expectation",
@@ -41648,6 +41848,7 @@
       ],
       [
         "jane",
+        "reserve",
         "elizabeth",
         "confidence",
         "pleasure",
@@ -41687,7 +41888,6 @@
       ],
       [
         "trifle",
-        "affectionate",
         "solicitude"
       ],
       [
@@ -41881,7 +42081,7 @@
         "imprudence",
         "thoughtlessness",
         "money",
-        "matter"
+        "unpardonable"
       ],
       [
         "exceed",
@@ -41914,6 +42114,10 @@
         "always",
         "so",
         "last"
+      ],
+      [
+        "sure",
+        "beautiful"
       ],
       [
         "soon",
@@ -42053,6 +42257,7 @@
         "girl"
       ],
       [
+        "vex",
         "indeed",
         "dupe",
         "bingley",
@@ -42106,12 +42311,12 @@
         "lizzy",
         "thus",
         "singled",
-        "family",
-        "happy"
+        "family"
       ],
       [
         "man",
-        "never"
+        "never",
+        "happy"
       ],
       [
         "disposition",
@@ -42339,6 +42544,7 @@
       ],
       [
         "elizabeth",
+        "produce",
         "letter",
         "charlotte",
         "probable",
@@ -42507,7 +42713,7 @@
       [
         "scandalous",
         "falsehood",
-        "though",
+        "injure",
         "much",
         "truth",
         "possible",
@@ -42689,6 +42895,7 @@
       ],
       [
         "much",
+        "planning",
         "marriage"
       ],
       [
@@ -43117,7 +43324,8 @@
         "door",
         "dressing",
         "room",
-        "catherine"
+        "catherine",
+        "rest"
       ],
       [
         "fine",
@@ -43179,11 +43387,10 @@
       [
         "rational",
         "scheme",
-        "sure"
-      ],
-      [
+        "sure",
         "report",
         "engagement",
+        "originate",
         "elizabeth",
         "loss",
         "imagine",
@@ -43270,6 +43477,7 @@
         "unequal",
         "own",
         "aunt",
+        "address",
         "weak",
         "side"
       ],
@@ -43726,7 +43934,6 @@
         "cruelly",
         "darcy",
         "indifference",
-        "want",
         "penetration",
         "perhaps",
         "instead",
@@ -43886,6 +44093,7 @@
         "concerned",
         "matter",
         "course",
+        "rest",
         "particular"
       ],
       [
@@ -43975,7 +44183,8 @@
         "importance",
         "affection",
         "moment",
-        "valuable"
+        "valuable",
+        "direction"
       ],
       [
         "much",
@@ -44048,6 +44257,7 @@
       [
         "abominably",
         "face",
+        "scruple",
         "relation"
       ],
       [
@@ -44124,7 +44334,8 @@
         "countenance",
         "never",
         "possible",
-        "way"
+        "way",
+        "induce"
       ],
       [
         "recollection",
@@ -44478,6 +44689,7 @@
         "mistaken",
         "supposing",
         "sister",
+        "indifferent",
         "easily",
         "attachment",
         "doubt",
@@ -44777,6 +44989,7 @@
       ],
       [
         "entreaty",
+        "serious",
         "however",
         "effect",
         "soon",
@@ -44973,6 +45186,7 @@
         "wealth",
         "grandeur",
         "enough",
+        "overcome",
         "abhorrence",
         "man",
         "violently",
@@ -45051,7 +45265,9 @@
         "opinion",
         "reasonable",
         "expression",
-        "moderate",
+        "moderate"
+      ],
+      [
         "explanation",
         "profession",
         "exceedingly",
@@ -45273,6 +45489,7 @@
         "comfort",
         "ease",
         "familiarity",
+        "come",
         "time"
       ],
       [
@@ -45750,6 +45967,7 @@
         "letter",
         "now",
         "communicate",
+        "welcome",
         "almost",
         "ashamed",
         "uncle",
@@ -45898,7 +46116,7 @@
         "sister"
       ],
       [
-        "answer",
+        "arrive",
         "collins",
         "congratulation",
         "elizabeth",
@@ -46047,6 +46265,7 @@
       ],
       [
         "wish",
+        "say",
         "sake",
         "family",
         "accomplishment",
@@ -46258,7 +46477,6 @@
         "help"
       ],
       [
-        "place",
         "year",
         "however",
         "darcy",
@@ -46651,6 +46869,7 @@
         "pleasure",
         "daisy",
         "chain",
+        "worth",
         "trouble",
         "daisy",
         "suddenly",
@@ -47079,7 +47298,7 @@
         "shoulder"
       ],
       [
-        "wish",
+        "shut",
         "telescope"
       ],
       [
@@ -47952,6 +48171,7 @@
       ],
       [
         "yet",
+        "show",
         "cat",
         "dinah",
         "fancy",
@@ -48069,6 +48289,7 @@
         "mouse",
         "away",
         "hard",
+        "go",
         "quite",
         "commotion",
         "pool"
@@ -48413,8 +48634,8 @@
       ],
       [
         "round",
-        "question",
         "dodo",
+        "answer",
         "great",
         "deal",
         "thought",
@@ -48523,6 +48744,7 @@
         "confusion",
         "large",
         "bird",
+        "taste",
         "theirs",
         "small",
         "one",
@@ -48709,7 +48931,7 @@
         "mouse"
       ],
       [
-        "wish",
+        "see",
         "bird"
       ],
       [
@@ -49384,7 +49606,6 @@
         "bill",
         "sharp",
         "kick",
-        "see",
         "next"
       ],
       [
@@ -50215,7 +50436,6 @@
         "chance",
         "hand",
         "head",
-        "find",
         "neck",
         "easily",
         "direction",
@@ -50731,6 +50951,10 @@
         "soup"
       ],
       [
+        "alice",
+        "well"
+      ],
+      [
         "certainly",
         "much",
         "air"
@@ -51083,7 +51307,6 @@
         "alarm"
       ],
       [
-        "time",
         "less",
         "pig",
         "quite",
@@ -51106,9 +51329,7 @@
         "child",
         "rather",
         "handsome",
-        "pig"
-      ],
-      [
+        "pig",
         "child",
         "pig",
         "right",
@@ -51581,7 +51802,6 @@
         "silent",
         "minute",
         "alice",
-        "raven",
         "writing",
         "desk",
         "much"
@@ -51804,6 +52024,7 @@
         "whisper"
       ],
       [
+        "grand",
         "certainly",
         "alice",
         "thoughtfully",
@@ -52022,7 +52243,6 @@
         "fancy",
         "extraordinary",
         "way",
-        "living",
         "much",
         "bottom",
         "well"
@@ -52244,6 +52464,7 @@
         "piece",
         "rudeness",
         "alice",
+        "bear",
         "great",
         "disgust",
         "off",
@@ -52512,7 +52733,8 @@
         "besides",
         "procession",
         "people",
-        "face"
+        "face",
+        "still"
       ],
       [
         "procession",
@@ -52796,7 +53018,6 @@
         "round",
         "look",
         "face",
-        "puzzled",
         "expression",
         "laughing",
         "head",
@@ -52976,9 +53197,7 @@
         "decidedly",
         "queen",
         "moment",
-        "dear",
-        "wish",
-        "cat"
+        "dear"
       ],
       [
         "queen",
@@ -53535,6 +53754,7 @@
         "merely",
         "moment",
         "delay",
+        "cost",
         "life"
       ],
       [
@@ -53641,7 +53861,6 @@
         "quite",
         "creature",
         "whole",
-        "thought",
         "quite",
         "safe",
         "go",
@@ -53693,7 +53912,8 @@
         "rock",
         "near",
         "alice",
-        "heart"
+        "heart",
+        "break"
       ],
       [
         "gryphon",
@@ -54756,6 +54976,7 @@
         "song",
         "mock",
         "turtle",
+        "kind",
         "alice",
         "eagerly",
         "gryphon",
@@ -54826,7 +55047,9 @@
         "soup",
         "fish",
         "game",
-        "dish",
+        "dish"
+      ],
+      [
         "else",
         "p",
         "ennyworth",
@@ -55258,6 +55481,7 @@
         "large",
         "again",
         "first",
+        "leave",
         "court",
         "second",
         "thought",
@@ -55612,7 +55836,6 @@
         "rabbit",
         "list",
         "curious",
-        "see",
         "next",
         "witness",
         "-for",
@@ -55716,9 +55939,7 @@
         "soon",
         "again",
         "right",
-        "much"
-      ],
-      [
+        "much",
         "quite",
         "much",
         "use",
@@ -55953,14 +56174,14 @@
       ],
       [
         "good",
-        "character"
+        "character",
+        "swim"
       ],
       [
         "word",
         "true",
         "push",
-        "matter",
-        "on"
+        "matter"
       ],
       [
         "more",
@@ -56019,6 +56240,7 @@
         "all"
       ],
       [
+        "-_said",
         "swim_-",
         "knave"
       ],
@@ -56302,6 +56524,7 @@
         "gryphon",
         "queer",
         "noise",
+        "change",
         "clamour",
         "busy",
         "farm",
@@ -57844,6 +58067,10 @@
         "smart"
       ],
       [
+        "lick",
+        "hand"
+      ],
+      [
         "yes",
         "i've",
         "whole",
@@ -58373,6 +58600,7 @@
         "soon",
         "free",
         "boy",
+        "along",
         "delicious",
         "expedition",
         "world",
@@ -58942,8 +59170,7 @@
       ],
       [
         "play",
-        "body",
-        "do"
+        "body"
       ],
       [
         "artificial",
@@ -58972,7 +59199,8 @@
         "money",
         "wage",
         "service",
-        "work"
+        "work",
+        "resign"
       ],
       [
         "boy",
@@ -59042,6 +59270,10 @@
         "small",
         "trust",
         "evidence"
+      ],
+      [
+        "content",
+        "cent"
       ],
       [
         "tom",
@@ -59318,6 +59550,7 @@
       [
         "tom",
         "fence",
+        "tarry",
         "awhile",
         "long"
       ],
@@ -59378,6 +59611,7 @@
       [
         "minute",
         "only",
+        "button",
         "flower",
         "jacket",
         "next",
@@ -59560,6 +59794,7 @@
         "consciousness"
       ],
       [
+        "hang",
         "signal",
         "notice",
         "none"
@@ -59604,6 +59839,7 @@
         "more"
       ],
       [
+        "lie",
         "cold",
         "white",
         "sign",
@@ -59771,6 +60007,7 @@
         "agony"
       ],
       [
+        "thus",
         "glad",
         "morning"
       ],
@@ -60705,6 +60942,7 @@
         "amy",
         "lawrence",
         "eye",
+        "brook",
         "gaze"
       ],
       [
@@ -60815,9 +61053,11 @@
         "school"
       ],
       [
+        "music",
         "soul",
         "whispering",
-        "jim"
+        "jim",
+        "there"
       ],
       [
         "shake",
@@ -61036,6 +61276,7 @@
         "much",
         "effusion",
         "superintendent",
+        "pump",
         "circumstance",
         "somewhat",
         "true",
@@ -61045,6 +61286,7 @@
         "instinct",
         "mystery",
         "well",
+        "bear",
         "light",
         "perhaps",
         "simply",
@@ -61055,6 +61297,7 @@
         "wisdom",
         "premise",
         "dozen",
+        "strain",
         "capacity",
         "doubt"
       ],
@@ -61334,6 +61577,7 @@
         "festivity",
         "st",
         "petersburg",
+        "boast",
         "bent",
         "venerable",
         "major",
@@ -61512,6 +61756,8 @@
         "society",
         "thing",
         "list",
+        "stretch",
+        "crack",
         "doom",
         "queer",
         "custom",
@@ -61750,6 +61996,7 @@
         "nation",
         "face",
         "thought",
+        "child",
         "tame",
         "lion"
       ],
@@ -62110,10 +62357,10 @@
         "starter",
         "court",
         "argument",
-        "aunt"
+        "aunt",
+        "out"
       ],
       [
-        "thought",
         "tooth",
         "reserve",
         "present",
@@ -63748,6 +63995,7 @@
         "anxious",
         "boy",
         "time",
+        "victory",
         "grasp",
         "speak",
         "tom",
@@ -64162,7 +64410,8 @@
         "restless",
         "uneasy",
         "door",
-        "then"
+        "then",
+        "repent"
       ],
       [
         "badly",
@@ -64389,6 +64638,7 @@
         "dog"
       ],
       [
+        "sorry",
         "day",
         "maybe",
         "late"
@@ -64447,6 +64697,7 @@
         "romantic"
       ],
       [
+        "soldier",
         "long",
         "year",
         "war",
@@ -64501,6 +64752,7 @@
       ],
       [
         "name",
+        "fill",
         "world",
         "people"
       ],
@@ -64688,6 +64940,8 @@
       ],
       [
         "thought",
+        "satisfy",
+        "point",
         "around",
         "small",
         "sandy",
@@ -64987,6 +65241,7 @@
         "more",
         "modern",
         "civilization",
+        "claim",
         "compensate",
         "loss"
       ],
@@ -65078,7 +65333,8 @@
         "chirping",
         "cricket",
         "human",
-        "ingenuity"
+        "ingenuity",
+        "locate"
       ],
       [
         "next",
@@ -66489,7 +66745,6 @@
         "strong",
         "boy",
         "try",
-        "understanding",
         "heel"
       ],
       [
@@ -67087,6 +67342,7 @@
         "plainly",
         "miscreant",
         "satan",
+        "fatal",
         "meddle",
         "property",
         "power"
@@ -67589,6 +67845,7 @@
       ],
       [
         "capacity",
+        "jug",
         "day",
         "quack",
         "cure",
@@ -68036,17 +68293,17 @@
         "head",
         "heroic",
         "thing",
+        "conceive",
         "furtive",
         "eye",
         "becky",
         "thatcher",
-        "noticing"
-      ],
-      [
+        "noticing",
         "unconscious",
         "never"
       ],
       [
+        "possible",
         "aware",
         "there"
       ],
@@ -68097,6 +68354,7 @@
         "friendless",
         "boy",
         "perhaps",
+        "sorry",
         "right",
         "so",
         "consequence"
@@ -68187,7 +68445,6 @@
         "plain",
         "tired",
         "way",
-        "succumb",
         "happy",
         "never",
         "poor",
@@ -69376,6 +69633,7 @@
         "water",
         "wildwood",
         "charm",
+        "good",
         "enough",
         "substitute",
         "coffee"
@@ -69710,6 +69968,7 @@
         "bread",
         "uninstructed",
         "incantation",
+        "act",
         "intelligently",
         "errand",
         "gravity"
@@ -69966,6 +70225,7 @@
         "halfway",
         "over",
         "current",
+        "permit",
         "now",
         "confidently",
         "swim",
@@ -70191,7 +70451,8 @@
       ],
       [
         "harper",
-        "heart"
+        "heart",
+        "break"
       ],
       [
         "tom",
@@ -70262,6 +70523,7 @@
         "pain",
         "killer",
         "cretur",
+        "tear",
         "house"
       ],
       [
@@ -70347,6 +70609,7 @@
         "together",
         "lad",
         "raft",
+        "turn",
         "next",
         "town",
         "below",
@@ -70582,6 +70845,7 @@
         "back"
       ],
       [
+        "disgrace",
         "pirate",
         "tom",
         "proud",
@@ -70731,6 +70995,7 @@
       ],
       [
         "well",
+        "exhausted",
         "sprawl",
         "dry",
         "hot",
@@ -70771,6 +71036,7 @@
         "huck",
         "swim",
         "tom",
+        "venture",
         "kicking",
         "trouser",
         "string",
@@ -71013,6 +71279,8 @@
       ],
       [
         "huck",
+        "bear",
+        "look",
         "eye"
       ],
       [
@@ -71128,6 +71396,7 @@
       [
         "joe",
         "idea",
+        "try",
         "too"
       ],
       [
@@ -71226,6 +71495,7 @@
         "tom"
       ],
       [
+        "smoke",
         "pipe",
         "day",
         "joe"
@@ -71257,7 +71527,8 @@
       ],
       [
         "little",
-        "snifter"
+        "snifter",
+        "fetch"
       ],
       [
         "boy",
@@ -71566,6 +71837,7 @@
         "grateful"
       ],
       [
+        "talk",
         "old",
         "sail",
         "furiously",
@@ -71848,8 +72120,8 @@
       [
         "however",
         "way",
-        "show",
         "cheerfulness",
+        "muster",
         "pipe",
         "whiff",
         "due",
@@ -71859,6 +72131,7 @@
         "behold",
         "glad",
         "savagery",
+        "smoke",
         "little",
         "hunt",
         "knife",
@@ -71887,6 +72160,7 @@
         "happy",
         "new",
         "acquirement",
+        "scalping",
         "nation"
       ],
       [
@@ -72340,7 +72614,6 @@
       ],
       [
         "congregation",
-        "trooped",
         "almost",
         "willing",
         "ridiculous",
@@ -72480,6 +72753,7 @@
         "day",
         "late",
         "little",
+        "cost",
         "little"
       ],
       [
@@ -72753,6 +73027,7 @@
         "rough",
         "place",
         "enough",
+        "smile",
         "ever",
         "rest",
         "long",
@@ -72881,6 +73156,10 @@
       [
         "glory",
         "sufficient"
+      ],
+      [
+        "live",
+        "glory"
       ],
       [
         "well",
@@ -73131,6 +73410,7 @@
         "amy",
         "saying",
         "expectantly",
+        "stammer",
         "awkward",
         "assent",
         "often",
@@ -73247,6 +73527,7 @@
         "grateful",
         "happiness",
         "jealousy",
+        "bear",
         "distress"
       ],
       [
@@ -73419,7 +73700,6 @@
       ],
       [
         "bad",
-        "think",
         "sereny",
         "harper",
         "fool",
@@ -73485,6 +73765,7 @@
       [
         "tom",
         "tom",
+        "thankfull",
         "soul",
         "world",
         "ever",
@@ -73574,6 +73855,7 @@
       ],
       [
         "old",
+        "hide",
         "tremor",
         "voice",
         "again",
@@ -73724,7 +74006,8 @@
       ],
       [
         "schoolyard",
-        "boy"
+        "boy",
+        "trounce"
       ],
       [
         "presently",
@@ -74042,9 +74325,7 @@
         "trouble",
         "spilt",
         "ink",
-        "book"
-      ],
-      [
+        "book",
         "denial",
         "thing",
         "bad",
@@ -74052,6 +74333,7 @@
       ],
       [
         "becky",
+        "glad",
         "glad",
         "certain"
       ],
@@ -74318,7 +74600,7 @@
         "command",
         "hour",
         "school",
-        "knew",
+        "wait",
         "outside",
         "captivity",
         "tedious",
@@ -74469,8 +74751,10 @@
       [
         "master",
         "wife",
+        "visit",
         "country",
         "day",
+        "interfere",
         "plan",
         "master",
         "always",
@@ -75117,6 +75401,7 @@
         "touch",
         "unobtrusive",
         "beauty",
+        "away",
         "unsought"
       ],
       [
@@ -75787,6 +76072,7 @@
         "place"
       ],
       [
+        "relief",
         "unseal",
         "tongue",
         "little",
@@ -75920,7 +76206,8 @@
         "huck",
         "knitted",
         "hooks",
-        "line"
+        "line",
+        "there"
       ],
       [
         "twouldn't",
@@ -75956,6 +76243,7 @@
         "jail",
         "perhaps",
         "undefined",
+        "hope",
         "difficulty"
       ],
       [
@@ -76631,6 +76919,7 @@
       [
         "hardly",
         "temptation",
+        "persuade",
         "boy",
         "nightfall"
       ],
@@ -76790,6 +77079,10 @@
         "finn",
         "red",
         "handed"
+      ],
+      [
+        "huck",
+        "answer"
       ],
       [
         "tom",
@@ -77905,6 +78198,7 @@
         "retreat",
         "other",
         "course",
+        "result",
         "tool",
         "corner",
         "ascent"
@@ -78036,7 +78330,8 @@
       ],
       [
         "dangerous",
-        "daytime!-anybody"
+        "daytime!-anybody",
+        "suspicion"
       ],
       [
         "handy",
@@ -78298,6 +78593,7 @@
         "treasure",
         "happy",
         "auspex",
+        "bothersome",
         "uncertainty",
         "dig"
       ],
@@ -78685,6 +78981,7 @@
       ],
       [
         "company",
+        "palpable",
         "improvement"
       ],
       [
@@ -78772,6 +79069,7 @@
       [
         "notion",
         "treasure",
+        "consist",
         "handful",
         "real",
         "dime",
@@ -79087,6 +79385,7 @@
         "huck",
         "maow",
         "whereupon",
+        "slip",
         "key"
       ],
       [
@@ -79179,7 +79478,6 @@
         "mountain"
       ],
       [
-        "wish",
         "flash",
         "lantern",
         "least",
@@ -80174,13 +80472,15 @@
         "now"
       ],
       [
+        "absurd",
         "man",
-        "away",
         "box",
         "never",
         "again"
       ],
       [
+        "stick",
+        "wake",
         "darkness",
         "security",
         "discovery"
@@ -81388,7 +81688,9 @@
         "crowd",
         "becky",
         "sleep",
-        "day"
+        "day",
+        "tired",
+        "death"
       ],
       [
         "last",
@@ -81601,6 +81903,7 @@
       ],
       [
         "good",
+        "good",
         "bad",
         "indifferent",
         "thing"
@@ -81691,6 +81994,7 @@
         "away",
         "speck",
         "light",
+        "glimmer",
         "glorious",
         "shout",
         "forth",
@@ -82040,7 +82344,8 @@
       [
         "explore",
         "border",
-        "well",
+        "good",
+        "sit",
         "rest",
         "awhile",
         "first"
@@ -82126,6 +82431,8 @@
         "tom",
         "examination",
         "becky",
+        "watch",
+        "face",
         "sign",
         "cheerily"
       ],
@@ -82300,13 +82607,15 @@
       [
         "hope",
         "again",
+        "talk",
         "more"
       ],
       [
         "again",
         "aimlessly",
         "simply",
-        "random"
+        "random",
+        "move"
       ],
       [
         "little",
@@ -82610,6 +82919,7 @@
       ],
       [
         "tom",
+        "comfort",
         "little",
         "effect"
       ],
@@ -82739,6 +83049,10 @@
         "long",
         "ago",
         "search"
+      ],
+      [
+        "maybe",
+        "come"
       ],
       [
         "darkness",
@@ -82940,6 +83254,10 @@
         "joe"
       ],
       [
+        "tom",
+        "move"
+      ],
+      [
         "vastly",
         "next",
         "moment",
@@ -83027,6 +83345,7 @@
         "apathy"
       ],
       [
+        "wait",
         "now",
         "long"
       ],
@@ -83041,6 +83360,7 @@
         "promise",
         "awful",
         "time",
+        "hold",
         "hand"
       ],
       [
@@ -83209,6 +83529,7 @@
         "so"
       ],
       [
+        "complete",
         "however",
         "soon",
         "messenger",
@@ -83239,6 +83560,7 @@
         "far",
         "kite",
         "line",
+        "reach",
         "third",
         "full",
         "stretch",
@@ -83259,6 +83581,7 @@
       ],
       [
         "night",
+        "speck",
         "daylight",
         "passage",
         "more"
@@ -83575,6 +83898,7 @@
         "stony",
         "obstruction",
         "labor",
+        "useless",
         "still",
         "beam",
         "wholly",
@@ -84096,7 +84420,7 @@
       [
         "now",
         "huck",
-        "standing",
+        "touch",
         "hole",
         "fishing",
         "pole"
@@ -84332,6 +84656,7 @@
         "here"
       ],
       [
+        "tom",
         "round",
         "money"
       ],
@@ -84833,7 +85158,6 @@
         "widow",
         "boy",
         "heartily",
-        "well",
         "being"
       ],
       [
@@ -85131,6 +85455,7 @@
         "huck",
         "home",
         "roof",
+        "spare",
         "money",
         "business",
         "modest",
@@ -85386,6 +85711,7 @@
         "dollar",
         "quarter",
         "week",
+        "board",
         "lodge",
         "school",
         "boy",
@@ -85503,6 +85829,7 @@
         "little",
         "spot",
         "stain",
+        "press",
         "heart",
         "know",
         "friend"
@@ -86559,7 +86886,6 @@
         "worse"
       ],
       [
-        "portrait",
         "far",
         "young",
         "man",
@@ -87641,7 +87967,6 @@
       ],
       [
         "extraordinary",
-        "thought",
         "never",
         "art"
       ],
@@ -87793,7 +88118,8 @@
         "mine",
         "agnew",
         "huge",
-        "price"
+        "price",
+        "part"
       ],
       [
         "good",
@@ -88310,6 +88636,10 @@
         "right"
       ],
       [
+        "influence",
+        "bad"
+      ],
+      [
         "world",
         "wide",
         "many",
@@ -88568,6 +88898,7 @@
         "gray",
         "tedious",
         "subject",
+        "talk",
         "seriously"
       ],
       [
@@ -90110,6 +90441,7 @@
       ],
       [
         "picture",
+        "change",
         "always",
         "now"
       ],
@@ -90280,6 +90612,7 @@
         "all",
         "though",
         "chap",
+        "squabble",
         "picture"
       ],
       [
@@ -90561,6 +90894,10 @@
       [
         "garden",
         "morning"
+      ],
+      [
+        "trust",
+        "henry"
       ],
       [
         "gray",
@@ -91395,6 +91732,7 @@
         "chance",
         "basil",
         "studio",
+        "fashioned",
         "marvellous",
         "type",
         "rate"
@@ -91910,7 +92248,6 @@
         "end"
       ],
       [
-        "assure",
         "quite",
         "invaluable"
       ],
@@ -92000,6 +92337,7 @@
         "bankrupt",
         "expenditure",
         "sympathy",
+        "appeal",
         "science",
         "straight"
       ],
@@ -92038,7 +92376,8 @@
       [
         "caveman",
         "laugh",
-        "history"
+        "history",
+        "different"
       ],
       [
         "really",
@@ -92078,6 +92417,7 @@
       ],
       [
         "henry",
+        "tell",
         "young",
         "again"
       ],
@@ -92335,6 +92675,7 @@
         "novel",
         "certainly",
         "novel",
+        "lovely",
         "persian",
         "carpet",
         "unreal"
@@ -93631,7 +93972,8 @@
       ],
       [
         "ever",
-        "crime"
+        "crime",
+        "confess"
       ],
       [
         "people",
@@ -94561,7 +94903,8 @@
       ],
       [
         "sense",
-        "intellect"
+        "intellect",
+        "degrade"
       ],
       [
         "fleshly",
@@ -94671,6 +95014,7 @@
         "experimental",
         "method",
         "method",
+        "arrive",
         "scientific",
         "analysis",
         "passion",
@@ -95224,6 +95568,7 @@
         "society",
         "kind",
         "colony",
+        "call",
         "society",
         "so",
         "fortune",
@@ -95476,7 +95821,9 @@
       ],
       [
         "marriage",
-        "sibyl",
+        "sibyl"
+      ],
+      [
         "charming",
         "couple"
       ],
@@ -95787,6 +96134,7 @@
         "curious",
         "race",
         "instinct",
+        "account",
         "reason",
         "dominant"
       ],
@@ -96043,11 +96391,16 @@
         "counter"
       ],
       [
+        "sibyl",
+        "oppressed"
+      ],
+      [
         "faint",
         "smile",
         "sullen",
         "mouth",
-        "echo"
+        "echo",
+        "win"
       ],
       [
         "time",
@@ -96150,7 +96503,7 @@
         "unkind"
       ],
       [
-        "wish",
+        "fall",
         "love"
       ],
       [
@@ -96180,7 +96533,7 @@
         "happiness"
       ],
       [
-        "know",
+        "quarrel",
         "never",
         "love"
       ],
@@ -96224,6 +96577,7 @@
       ],
       [
         "soon",
+        "part",
         "mother",
         "present"
       ],
@@ -96457,6 +96811,7 @@
         "son"
       ],
       [
+        "continued",
         "scene",
         "emotional",
         "scale",
@@ -96504,6 +96859,10 @@
         "dramatically"
       ],
       [
+        "laugh",
+        "day"
+      ],
+      [
         "chapter",
         "vi"
       ],
@@ -96539,6 +96898,7 @@
         "worth",
         "painting",
         "many",
+        "well",
         "little",
         "whitewashing"
       ],
@@ -96601,6 +96961,10 @@
         "birth",
         "position",
         "wealth"
+      ],
+      [
+        "absurd",
+        "much"
       ],
       [
         "marry",
@@ -96801,7 +97165,8 @@
       [
         "dorian",
         "gray",
-        "life"
+        "life",
+        "sorry"
       ],
       [
         "much",
@@ -96853,6 +97218,7 @@
       [
         "marriage",
         "course",
+        "silly",
         "interesting",
         "bond",
         "man",
@@ -97667,7 +98033,8 @@
       [
         "dorian",
         "gray",
-        "never"
+        "never",
+        "past"
       ],
       [
         "eye",
@@ -98112,6 +98479,7 @@
         "night",
         "face",
         "else",
+        "maiden",
         "blush",
         "bepaint",
         "cheek",
@@ -98609,6 +98977,7 @@
       ],
       [
         "even",
+        "profanation",
         "love"
       ],
       [
@@ -98682,13 +99051,13 @@
         "art"
       ],
       [
-        "art",
         "famous",
         "splendid",
         "magnificent"
       ],
       [
         "world",
+        "borne",
         "name"
       ],
       [
@@ -99297,6 +99666,10 @@
         "beauty"
       ],
       [
+        "loathe",
+        "soul"
+      ],
+      [
         "ever",
         "again"
       ],
@@ -99354,6 +99727,7 @@
       ],
       [
         "gold",
+        "wither",
         "grey"
       ],
       [
@@ -99364,12 +99738,14 @@
       [
         "sin",
         "stain",
+        "fleck",
         "wreck",
         "fairness"
       ],
       [
         "picture",
         "unchanged",
+        "visible",
         "emblem",
         "conscience"
       ],
@@ -99409,7 +99785,16 @@
         "cruel"
       ],
       [
+        "fascination",
+        "return"
+      ],
+      [
+        "happy",
+        "together"
+      ],
+      [
         "life",
+        "beautiful",
         "pure"
       ],
       [
@@ -99677,7 +100062,8 @@
       ],
       [
         "surely",
-        "canvas"
+        "canvas",
+        "alter"
       ],
       [
         "thing",
@@ -99791,6 +100177,10 @@
         "picture"
       ],
       [
+        "basil",
+        "sure"
+      ],
+      [
         "thing",
         "once"
       ],
@@ -99881,6 +100271,10 @@
         "reparation"
       ],
       [
+        "still",
+        "wife"
+      ],
+      [
         "unreal",
         "selfish",
         "love",
@@ -99891,6 +100285,7 @@
         "portrait",
         "basil",
         "hallward",
+        "guide",
         "life",
         "other",
         "god"
@@ -100055,6 +100450,7 @@
       ],
       [
         "afraid",
+        "find",
         "remorse",
         "nice",
         "curly",
@@ -100480,11 +100876,13 @@
       [
         "social",
         "mistake",
+        "abject",
         "course",
         "assure",
         "case",
         "whole",
         "thing",
+        "absolute",
         "failure"
       ],
       [
@@ -100740,7 +101138,8 @@
         "season",
         "artistic",
         "mourning",
-        "romance"
+        "romance",
+        "die"
       ],
       [
         "ultimately",
@@ -100817,6 +101216,7 @@
         "tragic",
         "ending",
         "tragedy",
+        "culminate",
         "farce"
       ],
       [
@@ -101293,8 +101693,8 @@
         "scene"
       ],
       [
-        "love",
         "always",
+        "sacrament",
         "now"
       ],
       [
@@ -101429,6 +101829,7 @@
       [
         "yet",
         "life",
+        "surrender",
         "chance",
         "always",
         "young",
@@ -101450,7 +101851,10 @@
       [
         "curious",
         "scientific",
-        "reason",
+        "reason"
+      ],
+      [
+        "exercise",
         "influence",
         "living",
         "organism",
@@ -101502,7 +101906,6 @@
         "place"
       ],
       [
-        "portrait",
         "magical",
         "mirror"
       ],
@@ -101533,7 +101936,8 @@
       [
         "blossom",
         "loveliness",
-        "ever"
+        "ever",
+        "fade"
       ],
       [
         "pulse",
@@ -101543,6 +101947,7 @@
       [
         "god",
         "greeks",
+        "strong",
         "fleet",
         "joyous"
       ],
@@ -101640,7 +102045,8 @@
       [
         "afraid",
         "intruding",
-        "sorrow"
+        "sorrow",
+        "lighten"
       ],
       [
         "poor",
@@ -102041,6 +102447,7 @@
         "man",
         "yellow",
         "satin",
+        "console",
         "misery",
         "life"
       ],
@@ -102127,6 +102534,7 @@
         "art"
       ],
       [
+        "bear",
         "idea",
         "more"
       ],
@@ -102374,6 +102782,7 @@
       ],
       [
         "easily",
+        "spare",
         "time"
       ],
       [
@@ -102454,8 +102863,7 @@
         "perhaps",
         "basil",
         "too",
-        "secret",
-        "try"
+        "secret"
       ],
       [
         "basil",
@@ -102694,7 +103102,8 @@
         "foolish",
         "imagining",
         "extremely",
-        "good"
+        "good",
+        "paint"
       ],
       [
         "even",
@@ -102734,6 +103143,10 @@
         "principal",
         "thing",
         "exhibition"
+      ],
+      [
+        "never",
+        "refuse"
       ],
       [
         "harry",
@@ -102778,6 +103191,7 @@
       ],
       [
         "ever",
+        "fill",
         "strange",
         "idolatry"
       ],
@@ -102802,7 +103216,6 @@
         "head"
       ],
       [
-        "basil",
         "possibly",
         "front",
         "picture"
@@ -102894,7 +103307,8 @@
       ],
       [
         "sort",
-        "life"
+        "life",
+        "lead"
       ],
       [
         "still",
@@ -103177,6 +103591,7 @@
         "bologna"
       ],
       [
+        "wrap",
         "dreadful",
         "thing"
       ],
@@ -103191,7 +103606,9 @@
         "bad",
         "corruption",
         "death",
+        "breed",
         "horror",
+        "yet",
         "never"
       ],
       [
@@ -103202,9 +103619,14 @@
         "canvas"
       ],
       [
+        "mar",
         "beauty",
         "away",
         "grace"
+      ],
+      [
+        "defile",
+        "shameful"
       ],
       [
         "yet",
@@ -103265,8 +103687,7 @@
       ],
       [
         "regret",
-        "denial",
-        "forgetfulness"
+        "denial"
       ],
       [
         "future",
@@ -103426,8 +103847,11 @@
         "hand"
       ],
       [
+        "honour",
         "round",
-        "person",
+        "person"
+      ],
+      [
         "beauty",
         "frame"
       ],
@@ -103467,6 +103891,7 @@
         "rather",
         "heavy",
         "thought",
+        "ask",
         "couple",
         "man"
       ],
@@ -103754,6 +104179,7 @@
         "yellow",
         "crow",
         "foot",
+        "creep",
         "round",
         "eye",
         "horrible"
@@ -103762,6 +104188,7 @@
         "hair",
         "brightness",
         "mouth",
+        "gape",
         "droop",
         "foolish",
         "gross",
@@ -103970,7 +104397,8 @@
         "round",
         "evening",
         "paper",
-        "book"
+        "book",
+        "club"
       ],
       [
         "st",
@@ -104292,7 +104720,6 @@
         "time"
       ],
       [
-        "thought",
         "host",
         "chair"
       ],
@@ -104310,12 +104737,14 @@
         "year",
         "dorian",
         "gray",
+        "free",
         "influence",
         "book"
       ],
       [
         "perhaps",
         "accurate",
+        "say",
         "never",
         "free"
       ],
@@ -104475,6 +104904,7 @@
         "conjecture",
         "friend",
         "so",
+        "creep",
         "upstairs",
         "locked",
         "room",
@@ -105031,11 +105461,11 @@
         "pleasure",
         "world",
         "thing",
+        "fresh",
         "shape",
         "colour",
         "secret",
         "world",
-        "past",
         "little",
         "place",
         "survive",
@@ -105064,6 +105494,7 @@
         "life",
         "search",
         "sensation",
+        "new",
         "delightful",
         "element",
         "strangeness",
@@ -105147,6 +105578,7 @@
         "pallid",
         "wafer",
         "time",
+        "fain",
         "indeed",
         "cælestis",
         "bread",
@@ -105268,8 +105700,9 @@
         "mystery"
       ],
       [
+        "study",
         "perfume",
-        "secret",
+        "secrets",
         "manufacture",
         "heavily",
         "scented",
@@ -105510,6 +105943,7 @@
       [
         "yet",
         "time",
+        "sit",
         "box",
         "opera",
         "alone",
@@ -105706,6 +106140,7 @@
         "arabian",
         "deer",
         "charm",
+        "cure",
         "plague"
       ],
       [
@@ -106387,6 +106822,7 @@
         "house",
         "forgetfulness",
         "mode",
+        "escape",
         "season",
         "fear",
         "time",
@@ -106432,6 +106868,7 @@
         "then",
         "suddenly",
         "night",
+        "creep",
         "house",
         "dreadful",
         "place",
@@ -106443,7 +106880,6 @@
         "day"
       ],
       [
-        "return",
         "front",
         "picture",
         "sometimes",
@@ -107437,7 +107873,8 @@
       [
         "strange",
         "sense",
-        "fear"
+        "fear",
+        "account"
       ],
       [
         "sign",
@@ -107983,6 +108420,7 @@
       [
         "blood",
         "vein",
+        "record",
         "clean"
       ],
       [
@@ -108125,6 +108563,7 @@
         "decent",
         "woman",
         "london",
+        "drive",
         "park"
       ],
       [
@@ -109657,6 +110096,7 @@
       ],
       [
         "determined",
+        "think",
         "absolutely",
         "necessary",
         "so"
@@ -109954,6 +110394,7 @@
       ],
       [
         "day",
+        "elapse",
         "back"
       ],
       [
@@ -110199,7 +110640,6 @@
         "dank",
         "hand",
         "lid",
-        "though",
         "brain",
         "sight",
         "eyeball",
@@ -110443,9 +110883,9 @@
       ],
       [
         "mad",
-        "you",
         "mad",
         "imagine",
+        "raise",
         "finger",
         "mad",
         "monstrous",
@@ -111101,7 +111541,6 @@
         "head",
         "quickly",
         "in",
-        "determined",
         "even",
         "dead",
         "man"
@@ -111305,8 +111744,7 @@
         "fiction",
         "french",
         "cookery",
-        "french",
-        "esprit"
+        "french"
       ],
       [
         "dorian",
@@ -112415,6 +112853,7 @@
       ],
       [
         "thing",
+        "fascinate",
         "afraid",
         "yet",
         "almost"
@@ -112615,6 +113054,7 @@
       ],
       [
         "opium",
+        "buy",
         "oblivion",
         "horror",
         "memory",
@@ -112701,6 +113141,7 @@
         "forget",
         "stamp",
         "thing",
+        "crush",
         "adder"
       ],
       [
@@ -112904,6 +113345,10 @@
         "dreamy",
         "shadow",
         "song"
+      ],
+      [
+        "day",
+        "free"
       ],
       [
         "suddenly",
@@ -114525,6 +114970,10 @@
         "gladys"
       ],
       [
+        "premature",
+        "surrender"
+      ],
+      [
         "romantic",
         "art"
       ],
@@ -114745,7 +115194,6 @@
         "merely",
         "illusion",
         "terrible",
-        "think",
         "conscience",
         "fearful",
         "phantom",
@@ -115140,10 +115588,6 @@
         "cruel"
       ],
       [
-        "man",
-        "sentence"
-      ],
-      [
         "afraid",
         "so",
         "henry"
@@ -115272,6 +115716,7 @@
       ],
       [
         "there",
+        "change",
         "place",
         "harry"
       ],
@@ -115428,6 +115873,7 @@
         "answer"
       ],
       [
+        "love",
         "dorian",
         "gray",
         "deep",
@@ -115575,6 +116021,10 @@
         "answer",
         "time",
         "landscape"
+      ],
+      [
+        "knowledge",
+        "fatal"
       ],
       [
         "uncertainty",
@@ -115864,7 +116314,8 @@
         "gray",
         "long",
         "avenue",
-        "hard"
+        "hard",
+        "go"
       ],
       [
         "tree",
@@ -115958,6 +116409,7 @@
         "gray"
       ],
       [
+        "hand",
         "handkerchief",
         "away",
         "farm",
@@ -116392,6 +116844,7 @@
         "dorian",
         "burgundy",
         "light",
+        "discuss",
         "matter",
         "calmly"
       ],
@@ -116980,9 +117433,7 @@
       ],
       [
         "back",
-        "youth"
-      ],
-      [
+        "youth",
         "world",
         "exercise",
         "early",
@@ -117172,7 +117623,7 @@
         "again"
       ],
       [
-        "place",
+        "change",
         "dorian"
       ],
       [
@@ -117492,6 +117943,7 @@
       [
         "really",
         "true",
+        "one",
         "never"
       ],
       [
@@ -117729,9 +118181,7 @@
       ],
       [
         "hetty",
-        "merton"
-      ],
-      [
+        "merton",
         "wonder",
         "portrait",
         "room"
@@ -117745,6 +118195,7 @@
         "perhaps",
         "life",
         "pure",
+        "able",
         "sign",
         "evil",
         "passion",
@@ -117776,7 +118227,6 @@
         "good",
         "hideous",
         "thing",
-        "away",
         "long"
       ],
       [
@@ -117870,6 +118320,7 @@
         "world",
         "simply",
         "mad",
+        "shut",
         "story"
       ],
       [
@@ -117887,6 +118338,10 @@
         "earth",
         "well",
         "heaven"
+      ],
+      [
+        "cleanse",
+        "sin"
       ],
       [
         "death",
@@ -117987,14 +118442,16 @@
       ],
       [
         "past",
-        "dead"
+        "dead",
+        "free"
       ],
       [
         "monstrous",
         "soul",
         "life",
         "hideous",
-        "warning"
+        "warning",
+        "peace"
       ],
       [
         "thing",
