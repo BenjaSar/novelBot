@@ -1,0 +1,22 @@
+{
+  "Evaluator1": {
+    "score": 0.29951648302642536,
+    "reason": [
+      "The response is coherent and stylistically consistent, but it fails to address the prompt or provide any relevant information, resulting in minimal alignment with the evaluation steps.",
+      "The response is coherent and stylistically consistent, but it fails to address the prompt or provide any relevant information, resulting in minimal alignment with the evaluation steps.",
+      "The response is highly coherent, with each point logically building on the previous one and clearly organized under thematic headings. The style is consistent, maintaining a formal and analytical tone throughout. The content is highly relevant, directly addressing themes of marriage, personal identity, and social status as specified in the prompt. The only minor shortcoming is the brief mention of 'Dorian Gray,' which may not be relevant if the text in question is 'Pride and Prejudice,' slightly affecting content relevance. Otherwise, the output strongly meets all evaluation criteria.",
+      "The response is coherent and stylistically consistent, but it does not address or remain focused on the topic or prompt, lacking any relevant content."
+    ]
+  },
+  "Evaluator2": {
+    "score": 0.22852581160706184,
+    "reason": [
+      "The response is coherent and stylistically consistent, but it lacks any relevant content or integration with the prompt. It does not address the evaluation steps beyond basic coherence.",
+      "The response is logically coherent and clear in structure, but it lacks relevance to any prompt and does not provide substantive content. There is no demonstration of style consistency or topic engagement, resulting in minimal alignment with the evaluation steps.",
+      "The response is highly coherent, with ideas flowing logically from one theme to the next. The stylistic tone is consistent and analytical throughout. The content is highly relevant, thoroughly addressing the central themes and motifs as requested. The only minor shortcoming is a slight lack of specific textual examples, but overall, the answer aligns very well with the evaluation steps.",
+      "The response is coherent and clear but fails to address the prompt in any meaningful way, lacking relevance and completeness. There is no substantive content, and thus it does not fulfill the requirements of the evaluation steps.",
+      "The response is coherent and clear but fails to provide any relevant information or address the context of the test case. It lacks stylistic substance and does not engage with the question, resulting in minimal alignment with the evaluation steps.",
+      "The response is coherent and stylistically consistent, but it fails to address the prompt or provide any relevant content, resulting in minimal alignment with the evaluation steps."
+    ]
+  }
+}

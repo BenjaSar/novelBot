@@ -57,7 +57,7 @@ dmypy.json
 #corpus_list_token.json
 #corpus_list.json
 #*.json
-*.jsonl
+#*.jsonl
 *.tsv
 *.csv
 

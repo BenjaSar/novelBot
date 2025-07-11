@@ -15,12 +15,37 @@ This project builds a high-quality text corpus from literary works (novels, shor
 - Remove low-content words (e.g., stopwords, pronouns, generic verbs, titles like *Mr.*, *Mrs.*).
 - Compute word frequencies and TF-IDF scores.
 - Find shared keywords across multiple corpora.
-- Save tokenized corpus and TF-IDF scores to JSON for later use.
+- Save tokenized corpus  to JSON for later use.
 - Prepare the dataset for a RAG-based chatbot.
 
 ---
 
 ## 🛠️ Project Structure
+
+```bash
+
++---data
+|   +---books
+|       +---book1.txt
+|       +---book2.txt
+|       +---book3.txt
+|   +---data_cleaned
+|       +---book1_cleaned1.txt
+|       +---book1_cleaned2.txt
+|       +---book1_cleaned3.txt
+|   +---input
+|       +---rag
+|           +---corpus_list.jsonl
++---notebooks
+|   +---EDA.ipynb
+|   +---RAG.ipynb
++---outputs
+|   +---corpus_list.jsonl
+|   +---metrics.json
++---.env_example
++---requirements.txt
++---.gitignore
+```
 
 ---
 
@@ -39,15 +64,17 @@ This project builds a high-quality text corpus from literary works (novels, shor
 
     ```bash
     python -m venv .venv
-    source .venv/bin/activate   # On Windows: .venv\Scripts\activate
+    source .venv\Scripts\activate   # On Linux: .venv/bin/activate
     pip install -r requirements.txt
     ```
 
-2. 📚 **Download your literary texts** into `data/` (e.g., from Project Gutenberg).
+2. 📚 **Download your literary texts** 
+    
+    Download the files to evaluate into `data/` (e.g., from Project Gutenberg).
 
 3. Add your environment variables. Create a .env file or export the following:
 
-    ```
+    ```bash
     OPENAI_API_KEY=your_openai_key_here
     PINECONE_API_KEY=your_pinecone_key
     PINECONE_ENV=your_pinecone_environment
@@ -56,23 +83,25 @@ This project builds a high-quality text corpus from literary works (novels, shor
 
 4. 🧹 **Run your preprocessing notebook** to clean and tokenize:
 
-    ```
+    ```bash
     EDA.ipynb
     ```
 
-5. 💾 **Check your results** in `outputs/` and `corpus_list.json`.
+5. 💾 **Check your results** 
+
+    The results of the EDA and metrics are saved in `outputs/metrics` and `corpus_list.json`.
 
 6. 🤖 **Use the corpus** with your RAG chatbot pipeline.
 
-📋 Features
+    📋 Features
 
-    AgentState structured management (task, context, content)
+    * AgentState management for structured tasks and context.
 
-    LangGraph to define multi-step reasoning workflows (plan → retrieve → generate)
+    * LangGraph for multi-step reasoning workflows (plan → retrieve → generate).
 
-    RetrievalQA pipeline for grounding LLM responses with vector search
+    * RetrievalQA for grounding LLM responses with vector search.
 
-**Run your RAG notebook**:
+    **Run your RAG notebook**
 
     ```
     RAG.ipynb
